@@ -1,6 +1,6 @@
 payload:
 # Spotify's Anti-Adveritsing blocking servers, tricking services to stop music services (DONT BLOCK THESE!):
-  - 'gcdn.2mdn.net'
+  - '/gcdn.2mdn.net'
   - 'r9---sn-n4v7kn76.c.2mdn.net'
   - 'gew1-accesspoint-b-zzfg.ap.spotify.com'
   - 'ns1.p23.dynect.net'
